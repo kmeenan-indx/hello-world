@@ -10,4 +10,6 @@ func HelloWorld(name string) {
 // Main function
 func main() {
 	HelloWorld("Kendall")
+	HelloWorld("Cassidy")
+	HelloWorld("Maddie")
 }
