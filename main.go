@@ -11,5 +11,6 @@ func HelloWorld(name string) {
 func main() {
 	HelloWorld("Kendall")
 	HelloWorld("Cassidy")
+	HelloWorld("Connor")
 	HelloWorld("Maddie")
 }
